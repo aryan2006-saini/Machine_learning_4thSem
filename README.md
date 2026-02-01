@@ -8,7 +8,6 @@ It includes implementations of ML algorithms from scratch, dataset analysis, pre
 ## 🚀 Goals of This Repository
 - Implement ML algorithms **from scratch**
 - Practice regression, classification, and clustering
-- Perform **EDA and data preprocessing**
 - Build clean and reusable ML code
 - Strengthen core ML fundamentals as a CS student
 
@@ -16,12 +15,10 @@ It includes implementations of ML algorithms from scratch, dataset analysis, pre
 
 ## 📂 Repository Structure
 📁 machine-learning-practice
-│
-├── 📁 Regression
-├── 📁 Classification
-├── 📁 Clustering
-├── 📁 Neural Networks
-├── 📁 Utils
+  │
+#├── 📁 Regression
+#├── 📁 Classification
+
 └── README.md
 
 
@@ -30,22 +27,12 @@ It includes implementations of ML algorithms from scratch, dataset analysis, pre
 ## 🧠 Concepts which will be covered
 - Linear & Logistic Regression  
 - Gradient Descent  
-- KNN Classification  
-- Decision Trees  
-- Naive Bayes  
-- K-Means Clustering  
-- PCA (upcoming)  
-- Basic Neural Networks  
 
 ---
 
 ## 📊 Datasets Used
 - Iris
 - California house
-- 
-- (Wine Quality  
-- Boston Housing  
-- Custom datasets )--these will be used later on. 
 
 ---
 
